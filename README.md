@@ -1,10 +1,10 @@
   Credit where credit is due:
 
-  @pigpen255
-	@The_DuckDeveloper
-	@Zoulenx
-	@PhoenixRessusection
-	
+* @pigpen255
+* @The_DuckDeveloper
+* @Zoulenx
+* @PhoenixRessusection
+---
   Original DevForum post: https://devforum.roblox.com/t/can-random-letters-get-me-banned/3340549
 	
   Instructions: 
